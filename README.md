@@ -1,43 +1,56 @@
-# Привет, я Егор 👋
+# Hi, I'm Egor 👋
 
-Python backend-разработчик из Казани  
-Люблю разрабатывать веб-сервисы, Telegram-ботов и экспериментировать с архитектурой
+### Python backend developer from Russia
 
-🎓 Выпускник КФУ (2025) — «Фундаментальная информатика и информационные технологии»  
-🔍 Ищу первую серьёзную позицию в backend-разработке  
-⚙️ Основной стек: Python, Flask, PostgreSQL, Docker, Git, REST API
+🎓 KFU graduate (2025) - "Fundamental Informatics and Information Technology" 
+
+🌱 Open to internship or junior backend developer positions  
+
+💬 Ask me about Python, Flask or Telegram bot development
+
+📄 [View my resume (PDF)](https://drive.google.com/file/d/11WXMxG1mkVwXIw3AxlwmTOZljHTmy_hh/view?usp=sharing)
 
 ---
 
-## 🧠 Проекты
+## 🧠 Projects
 
 ### 💰 [Finly](https://github.com/iseq1/finly)
-**Web-сервис и Telegram-бот для учёта личных финансов**  
-> Flask + PostgreSQL + Aiogram + JWT + интеграции с внешними API (ЦБ РФ, Binance)  
-Позволяет пользователю управлять доходами/расходами, получать аналитику и отчёты
+**Web service and Telegram bot for personal finances**
+> Flask + PostgreSQL + Aiogram + JWT + integration with external APIs (Central Bank of the Russian Federation, Binance) + Yandex Cloud + Yandex DataLens  
+Allows the user to manage income/expenses, receive analytics and reports
 
 ---
 
 ### ☕ [Roast'n'Run](https://github.com/iseq1/Roast-n-Run)
-**Сайт для кофейни с меню, корзиной и админкой**  
-> Flask + Jinja2 + SQLite  
-Классическое CRUD-приложение с системой заказов
+**A website for a coffee shop with a menu, shopping cart, and admin panel**
+> Flask + Jinja2 + SQLite
+A classic CRUD application with an ordering system
 
 ---
 
-### 🧱 [Мини ORM](https://github.com/iseq1/mini-orm)
-**Самописная ORM-система на чистом Python**  
-> Создаёт таблицы, выполняет SQL-запросы, реализует CRUD-интерфейс  
-Учебный проект, демонстрирующий понимание внутренней кухни ORM
+### 🧱 [Mini ORM](https://github.com/iseq1/mini-orm)
+**A self-written ORM system in pure Python**
+> Creates tables, executes SQL queries, implements a CRUD interface  
+A training project demonstrating an understanding of the inner workings of ORM
 
 ---
 
-## 🧰 Стек
+## 🧰 Stack
 
-`Python` | `Flask` | `Aiogram` | `PostgreSQL` | `Docker` | `Git` | `REST` | `SQL` | `UML`
+`Python` | `Flask` ​​| `Aiogram` | `PostgreSQL` | `Docker` | `Git` | `REST` | `MVC` | `SQL` | `UML`
 
 ---
 
-📫 Связаться со мной:
-- Telegram: [@atlantiee](https://t.me/atlantiee)
-- Email: egorka.mironov.2003@mail.ru
+## 📊 GitHub Stats
+
+![Egor's GitHub stats](https://github-readme-stats.vercel.app/api?username=iseq1&show_icons=true&theme=tokyonight)
+####
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iseq1&layout=compact&theme=tokyonight) 
+
+---
+
+## 📬 Let's connect:  
+[![Telegram Badge](https://img.shields.io/badge/-@atlantiee-0088cc?style=flat&logo=Telegram&logoColor=white)](https://t.me/atlantiee)
+[![VK Badge](https://img.shields.io/badge/-VK-4a76a8?style=flat&logo=VK&logoColor=white)](https://vk.com/atlantie)
+[![Gmail Badge](https://img.shields.io/badge/-egorka.mironov.2003@mail.ru-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:egorka.mironov.2003@mail.ru)
+[![Steam](https://img.shields.io/badge/-Steam-000?style=flat&logo=Steam&logoColor=white)](https://steamcommunity.com/id/iseq1/) 
