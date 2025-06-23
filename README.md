@@ -1,5 +1,9 @@
 # Hi, I'm Egor 👋
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB3OGM5czY3OXdhZ3pzdHJqOHM2ZTJ2MmZndHl6ZTB6N2EyMW9vYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPusXllLwBDGYBq/giphy.gif" width="50%" />
+</div>
+
 ### Python backend developer from Russia
 
 🎓 KFU graduate (2025) - "Fundamental Informatics and Information Technology" 
