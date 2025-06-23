@@ -12,7 +12,7 @@
 
 💬 Ask me about Python, Flask or Telegram bot development
 
-📄 View my resume ([PDF RU](https://drive.google.com/file/d/11WXMxG1mkVwXIw3AxlwmTOZljHTmy_hh/view?usp=sharing) | [PDF EN]())
+📄 View my resume ([CV RU](https://drive.google.com/file/d/11WXMxG1mkVwXIw3AxlwmTOZljHTmy_hh/view?usp=sharing) | [CV EN]())
 
 ---
 
