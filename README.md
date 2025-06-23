@@ -32,7 +32,7 @@ A classic CRUD application with an ordering system
 
 ---
 
-### 🧱 [Mini ORM](https://github.com/iseq1/mini-orm)
+### 🧱 [Mini ORM](https://github.com/iseq1/mini-ORM)
 **A self-written ORM system in pure Python**
 > Creates tables, executes SQL queries, implements a CRUD interface  
 A training project demonstrating an understanding of the inner workings of ORM
