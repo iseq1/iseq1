@@ -6,9 +6,9 @@
 
 ### Python backend developer from Russia
 
-🎓 KFU graduate (2025) - "Fundamental Informatics and Information Technology" 
+🎓 KFU graduate (2025) - Bachelor's degree in Fundamental Informatics and Information Technology
 
-🌱 Open to internship or junior backend developer positions  
+🌱 Open to backend python-developer positions  
 
 💬 Ask me about Python, Flask or Telegram bot development
 
