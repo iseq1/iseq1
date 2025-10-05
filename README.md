@@ -6,6 +6,10 @@
 
 ### Python backend developer from Russia
 
+💻 Current job - Python-developer at Sovcombank Technologies, a fintech company
+
+📚 Current education (2025-2027) - Master's degree in Fundamental Informatics and Information Technology with a focus on computer vision and machine learning
+
 🎓 KFU graduate (2025) - Bachelor's degree in Fundamental Informatics and Information Technology
 
 🌱 Open to backend python-developer positions  
